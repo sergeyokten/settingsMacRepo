@@ -540,4 +540,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="gitSettingsToken" value="d449c4fa12a75723949e6c631967e6b9cf112a2c" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
